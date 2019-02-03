@@ -12,7 +12,7 @@ The original code is collected all the [links](https://github.com/joelgrus/data-
 1. [Introduction](https://github.com/dchen40/Solutions-to-Data-Science-from-Scratch-Selected-Chapters-/blob/master/Introduction.ipynb)
 2. [A Crash Course in Python](https://github.com/dchen40/Solutions-to-Data-Science-from-Scratch-Selected-Chapters-/blob/master/A%20Crash%20Course%20in%20Python.ipynb)
 3. [Visualizing Data](https://github.com/dchen40/Solutions-to-Data-Science-from-Scratch-Selected-Chapters-/blob/master/Visualization.ipynb)
-4. [Hypothesis and Inference]
+4. [Hypothesis and Inference](https://github.com/dchen40/Solutions-to-Data-Science-from-Scratch-Selected-Chapters-/blob/master/Statistical%20Hypothesis%20Testing.ipynb)
 5. [Getting Data]
 6. [Working With Data]
 7. [Machine Learning]
