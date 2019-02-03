@@ -3,7 +3,7 @@ Solutions-to-Data-Science-from-Scratch-Selected-Chapters-
 
 Here's some of my code and notes from the book __[Data Science from Scratch](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)__. 
 
-**I have been reorganized some important chapters and put some personal comments in the jupyter notebook.**
+**I have reorganized some practical chapters and put personal comments in the jupyter notebook.**
 
 The original code is collected all the [links](https://github.com/joelgrus/data-science-from-scratch/blob/master/links.md) from the book.
 
